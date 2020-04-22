@@ -22,7 +22,10 @@ This includes techniques for:
 - Variable encoding.
 And much more.
 
-A basic understanding of data distributions, descriptive statistics, and data visualization is required to help you identify the methods to choose when performing these tasks.
+A basic understanding of data distributions, descriptive statistics, and data visualization is required to help you identify the methods to choose when performing these tasks. <br/>
+Tasks Completed: <br/>
+Outlier Detection: <br/>
+<img src="https://raw.githubusercontent.com/vgaurav3011/7-Days-of-Statistics/master/final.png"> <br/>
 
 ## 2. Statistics in Model Evaluation
 Statistical methods are required when evaluating the skill of a machine learning model on data not seen during training.
